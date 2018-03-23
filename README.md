@@ -1,0 +1,2 @@
+# rooster
+Stenden rooster app
