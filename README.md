@@ -1,4 +1,4 @@
-
+# Make it easy
 
 As student of NHL Stenden you use different platforms. For example Xedule for your schedules, Blackboard for the course information and Progress for your grades.
 
