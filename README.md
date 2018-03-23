@@ -6,3 +6,4 @@ I used a shortcut link for these platforms, but needed to login every time to ac
 * * *
 ### [Download the app](http://nhlstenden-app.ml/rooster.apk)
 
+/play cottoneyejoe
