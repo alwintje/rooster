@@ -1,4 +1,4 @@
-# Schedule
+# NHL Stenden app [unofficial]
 
 As student of NHL Stenden, you use some platforms. You probably use Xedule for your schedules, Blackboard for the course information and progress for your grades.
 
